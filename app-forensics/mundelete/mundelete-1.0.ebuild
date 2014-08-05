@@ -17,3 +17,5 @@ IUSE=""
 
 DEPEND=""
 RDEPEND=""
+
+S="${WORKDIR}/${PN}"
