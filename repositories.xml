@@ -1,0 +1,11 @@
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>mundelete</name>
+		<description lang="en">Gentoo overlay with mundelete (mundelete is a program to undelete files from MsDos/Windows disks. It supports FAT12/FAT16/FAT32 and vfat extensions.)</description>
+		<homepage>https://github.com/pr0d1r2/mundelete-gentoo-overlay</homepage>
+		<owner type="person">
+			<name>Marcin Nowicki</name>
+		</owner>
+		source type="git">git://github.com/pr0d1r2/mundelete-gentoo-overlay.git</source>
+	</repo>
+</repositories>
