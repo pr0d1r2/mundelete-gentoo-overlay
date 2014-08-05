@@ -6,6 +6,6 @@
 		<owner type="person">
 			<name>Marcin Nowicki</name>
 		</owner>
-		source type="git">git://github.com/pr0d1r2/mundelete-gentoo-overlay.git</source>
+		<source type="git">git://github.com/pr0d1r2/mundelete-gentoo-overlay.git</source>
 	</repo>
 </repositories>
